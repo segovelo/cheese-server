@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "cheeses-server-executor",
+    "name": "cheeses-server",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "9ofhfkvsec"
+  }
+}
