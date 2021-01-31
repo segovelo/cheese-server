@@ -1,5 +1,5 @@
 # cheeses-server
-Express server hosting 466  cheese descriptions in JSON format. To run locally:
+Express server hosting 566  cheese descriptions in JSON format. To run locally:
 
 node local.js
 
